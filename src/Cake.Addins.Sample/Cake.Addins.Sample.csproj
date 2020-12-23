@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFrameworks>net5.0;netstandard2.0;net461</TargetFrameworks>
@@ -41,7 +41,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Cake.Extensions.PoC" Version="0.0.1-preview" PrivateAssets="All" />
+    <PackageReference Include="Cake.Extensions.PoC" Version="0.0.2-preview" PrivateAssets="All"/>
     <PackageReference Include="Microsoft.SourceLink.GitHub" Version="1.0.0" PrivateAssets="All" />
   </ItemGroup>
 
