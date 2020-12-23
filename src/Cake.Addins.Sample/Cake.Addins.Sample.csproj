@@ -33,11 +33,11 @@
     <PackageTags>cake;sample;cake-extensions;cake-addin;cake-build;cake-contrib</PackageTags>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageIcon>images\icon.png</PackageIcon>
-    <PackageIconUrl>https://raw.githubusercontent.com/augustoproiete/cake-addins-sample/master/assets/cake-addins-sample-nuget.png</PackageIconUrl>
+    <PackageIconUrl>https://raw.githubusercontent.com/augustoproiete/cake-addins-sample/master/asset/cake-addins-sample-nuget.png</PackageIconUrl>
     <PackageProjectUrl>https://github.com/augustoproiete/cake-addins-sample</PackageProjectUrl>
     <PackageReleaseNotes>https://github.com/augustoproiete/cake-addins-sample/releases</PackageReleaseNotes>
     <RepositoryType>git</RepositoryType>
-    <RepositoryUrl>https://github.com/augustoproiete/cake-addins-sample</RepositoryUrl>
+    <RepositoryUrl>https://github.com/augustoproiete/cake-addins-sample.git</RepositoryUrl>
   </PropertyGroup>
 
   <ItemGroup>
