@@ -15,7 +15,7 @@
 Call the `Sample()` alias in order to run the add-in using the default settings:
 
 ```csharp
-#addin "nuget:?package=Cake.Addins.Sample&version=0.0.1-preview&prerelease"
+#addin "nuget:?package=Cake.Addins.Sample&version=0.0.2-preview&prerelease"
 
 Task("Example")
     .Does(() =>
